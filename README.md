@@ -27,9 +27,11 @@ Messages are **end-to-end encrypted** using **Fernet (AES-based symmetric encryp
 
 ---
 
-## 🗂️ Folder Structure
+### 🗂️ Folder Structure
 
-
+```bash
+Secure-LAN-Chat/
+│
 ├── server/
 │   ├── server_core.py
 │   └── server_gui.py
@@ -37,8 +39,9 @@ Messages are **end-to-end encrypted** using **Fernet (AES-based symmetric encryp
 ├── client/
 │   ├── client_core.py
 │   └── client_gui.py
-
-
+│
+└── README.md
+```
 
 ---
 
